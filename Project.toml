@@ -1,0 +1,12 @@
+name = "DashBootstrapComponents"
+uuid = "1b08a953-4be3-4667-9a23-fa6d05876a1e"
+version = "0.12.2"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+DashBase = "03207cf0-e2b3-4b91-9ca8-690cf0fb507e"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+julia = "1.5"
+DashBase = "0.1.1"

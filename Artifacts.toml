@@ -1,0 +1,6 @@
+[resources]
+git-tree-sha1 = "015081cef324d8b4d4e3a9949255aae827fe7081"
+
+    [[resources.download]]
+    sha256 = "b0d8ef3f7a605346d30901671c2ce1b32c83990674504d6184d7e4b6eb6c70b6"
+    url = "https://github.com/waralex/DashBootstrapComponents.jl/releases/download/v0.12.2/DashBootstrapComponentsResources.v0.12.2.tar.gz"
