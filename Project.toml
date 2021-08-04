@@ -1,6 +1,6 @@
 name = "DashBootstrapComponents"
 uuid = "1b08a953-4be3-4667-9a23-fa6d05876a1e"
-version = "0.13.0"
+version = "0.13.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
